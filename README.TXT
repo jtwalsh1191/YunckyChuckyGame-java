@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is a game called yucky chucky. The green square is known as the soap bar. You can only click on the outer square of the "chocloate bar".
+Every Piece of the bar will turn white that is below and to the right of the selected piece. This is to declare the pieces as being eaten. The person who is left with
+the green soap piece is deemed the loser.
 ------------------------------------------------------------------------
 
 PROJECT TITLE:
