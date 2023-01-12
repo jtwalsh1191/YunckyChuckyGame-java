@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GridSquare
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GridSquare\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=xcoor\ ycoor
+comment1.target=GridSquare(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GridSquare\r\n
+comment2.params=
+comment2.target=void\ setColor()
+comment3.params=
+comment3.target=void\ setColor2()
+comment4.params=
+comment4.target=void\ switchColor2()
+comment5.params=
+comment5.target=void\ switchColor()
+comment6.params=ms
+comment6.target=void\ wait(int)
+numComments=7
